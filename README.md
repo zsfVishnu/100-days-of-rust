@@ -1,5 +1,5 @@
 # 100-days-of-rust 
 
-Streak Count : 0
 
 Day 0 : Repo setup
+Day 1 : Rock Paper Scissors Lizard Spock
